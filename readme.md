@@ -36,7 +36,7 @@ To keep track of what bots are run, how often, how long, and just how popular so
 - **0ScriptName.cs** are basically "Do everything required for this script.."
 - If you wanted to have a new farming script that doesn't exist though please request them [here](https://forms.gle/casF8pCNsP2qMGZS6)
 
-### [Skua Discord](https://discord.gg/pearlharbor) Join the community and get help with Skua
+### [Skua Discord](https://discord.com/invite/CKKbk2zr3p) Join the community and get help with Skua
 
 ### For questions or help join the discord & go to the [#skua-help](https://discord.com/channels/1090693457586176013/1090741396970938399) channel
 
@@ -58,7 +58,7 @@ For us to make Skua better, skua developers need your support. You can support u
 - **Skua Heroes** the script makers and helpers.
 - **Boaters** are the ones who sail overnight using Skua and help the Skua team to improve, thanks to their feedback and suggestions **which is you**.
 
-## How to build [ For Client Developers and Contributors]
+## How to build [ For Client Developers and Contributors ]
 
 ***Ignore this if you are not a developer***
 
